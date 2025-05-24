@@ -1,82 +1,84 @@
-[
-  {
-    "id": 1,
-    "name": "Jumping Jacks",
-    "gifUrl": "https://github.com/Miicaso123/exercise-api/blob/master/public/images/jumping-jacks.gif?raw=true",
-    "target": "Full body",
-    "bodyPart": "Cardio",
-    "description": "A great warm-up exercise to get your heart rate up."
-  },
-  {
-    "id": 2,
-    "name": "Bodyweight Squats",
-    "gifUrl": "https://github.com/Miicaso123/exercise-api/blob/master/public/images/body-weight-squats.gif?raw=true",
-    "target": "Legs",
-    "bodyPart": "Lower Body",
-    "description": "Simple squats using your own body weight."
-  },
-  {
-    "id": 3,
-    "name": "Wall Sit",
-    "gifUrl": "https://github.com/Miicaso123/exercise-api/blob/master/public/images/wall-sit.gif?raw=true",
-    "target": "Legs",
-    "bodyPart": "Lower Body",
-    "description": "Hold a seated position against a wall to build endurance."
-  },
-  {
-    "id": 4,
-    "name": "Push-ups",
-    "gifUrl": "https://github.com/Miicaso123/exercise-api/blob/master/public/images/push-up.gif?raw=true",
-    "target": "Chest, arms",
-    "bodyPart": "Upper Body",
-    "description": "Classic upper-body strength exercise."
-  },
-  {
-    "id": 5,
-    "name": "High Knees",
-    "gifUrl": "https://github.com/Miicaso123/exercise-api/blob/master/public/images/high-knees.gif?raw=true",
-    "target": "Cardio",
-    "bodyPart": "Legs",
-    "description": "Raise your knees quickly in place for a cardio burn."
-  },
-  {
-    "id": 6,
-    "name": "Plank",
-    "gifUrl": "https://github.com/Miicaso123/exercise-api/blob/master/public/images/plank.gif?raw=true",
-    "target": "Core",
-    "bodyPart": "Abdominals",
-    "description": "A core strength exercise that also helps with posture."
-  },
-  {
-    "id": 7,
-    "name": "Lunges",
-    "gifUrl": "/https://github.com/Miicaso123/exercise-api/blob/master/public/images/lunges.gif?raw=true",
-    "target": "Legs, glutes",
-    "bodyPart": "Lower Body",
-    "description": "Step forward and bend your knees to work your legs."
-  },
-  {
-    "id": 8,
-    "name": "Arm Circles",
-    "gifUrl": "https://github.com/Miicaso123/exercise-api/blob/master/public/images/arm-circles.gif?raw=true",
-    "target": "Shoulders",
-    "bodyPart": "Upper Body",
-    "description": "Warm-up move to loosen shoulder joints."
-  },
-  {
-    "id": 9,
-    "name": "Glute Bridge",
-    "gifUrl": "https://github.com/Miicaso123/exercise-api/blob/master/public/images/glute-bridge.gif?raw=true",
-    "target": "Glutes, hamstrings",
-    "bodyPart": "Lower Body",
-    "description": "Lift your hips off the ground to engage your glutes."
-  },
-  {
-    "id": 10,
-    "name": "Mountain Climbers",
-    "gifUrl": "https://github.com/Miicaso123/exercise-api/blob/master/public/images/mountain-climber.gif?raw=true",
-    "target": "Full body",
-    "bodyPart": "Cardio & Core",
-    "description": "Fast-paced move to get your heart rate up."
-  }
-]
+{
+  "exercises": [
+    {
+      "id": 1,
+      "name": "Jumping Jacks",
+      "gifUrl": "https://github.com/Miicaso123/exercise-api/blob/master/public/images/jumping-jacks.gif?raw=true",
+      "target": "Full body",
+      "bodyPart": "Cardio",
+      "description": "A great warm-up exercise to get your heart rate up."
+    },
+    {
+      "id": 2,
+      "name": "Bodyweight Squats",
+      "gifUrl": "https://github.com/Miicaso123/exercise-api/blob/master/public/images/body-weight-squats.gif?raw=true",
+      "target": "Legs",
+      "bodyPart": "Lower Body",
+      "description": "Simple squats using your own body weight."
+    },
+    {
+      "id": 3,
+      "name": "Wall Sit",
+      "gifUrl": "https://github.com/Miicaso123/exercise-api/blob/master/public/images/wall-sit.gif?raw=true",
+      "target": "Legs",
+      "bodyPart": "Lower Body",
+      "description": "Hold a seated position against a wall to build endurance."
+    },
+    {
+      "id": 4,
+      "name": "Push-ups",
+      "gifUrl": "https://github.com/Miicaso123/exercise-api/blob/master/public/images/push-up.gif?raw=true",
+      "target": "Chest, arms",
+      "bodyPart": "Upper Body",
+      "description": "Classic upper-body strength exercise."
+    },
+    {
+      "id": 5,
+      "name": "High Knees",
+      "gifUrl": "https://github.com/Miicaso123/exercise-api/blob/master/public/images/high-knees.gif?raw=true",
+      "target": "Cardio",
+      "bodyPart": "Legs",
+      "description": "Raise your knees quickly in place for a cardio burn."
+    },
+    {
+      "id": 6,
+      "name": "Plank",
+      "gifUrl": "https://github.com/Miicaso123/exercise-api/blob/master/public/images/plank.gif?raw=true",
+      "target": "Core",
+      "bodyPart": "Abdominals",
+      "description": "A core strength exercise that also helps with posture."
+    },
+    {
+      "id": 7,
+      "name": "Lunges",
+      "gifUrl": "/https://github.com/Miicaso123/exercise-api/blob/master/public/images/lunges.gif?raw=true",
+      "target": "Legs, glutes",
+      "bodyPart": "Lower Body",
+      "description": "Step forward and bend your knees to work your legs."
+    },
+    {
+      "id": 8,
+      "name": "Arm Circles",
+      "gifUrl": "https://github.com/Miicaso123/exercise-api/blob/master/public/images/arm-circles.gif?raw=true",
+      "target": "Shoulders",
+      "bodyPart": "Upper Body",
+      "description": "Warm-up move to loosen shoulder joints."
+    },
+    {
+      "id": 9,
+      "name": "Glute Bridge",
+      "gifUrl": "https://github.com/Miicaso123/exercise-api/blob/master/public/images/glute-bridge.gif?raw=true",
+      "target": "Glutes, hamstrings",
+      "bodyPart": "Lower Body",
+      "description": "Lift your hips off the ground to engage your glutes."
+    },
+    {
+      "id": 10,
+      "name": "Mountain Climbers",
+      "gifUrl": "https://github.com/Miicaso123/exercise-api/blob/master/public/images/mountain-climber.gif?raw=true",
+      "target": "Full body",
+      "bodyPart": "Cardio & Core",
+      "description": "Fast-paced move to get your heart rate up."
+    }
+  ]
+}
