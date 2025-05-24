@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Jumping Jacks",
+    "gifUrl": "/images/jumping-jacks.gif",
+    "target": "Full body",
+    "bodyPart": "Cardio",
+    "description": "A great warm-up exercise to get your heart rate up."
+  },
+  {
+    "id": 2,
+    "name": "Bodyweight Squats",
+    "gifUrl": "/images/bodyweight-squats.png",
+    "target": "Legs",
+    "bodyPart": "Lower Body",
+    "description": "Simple squats using your own body weight."
+  },
+  {
+    "id": 3,
+    "name": "Wall Sit",
+    "gifUrl": "/images/wall-sit.jpg",
+    "target": "Legs",
+    "bodyPart": "Lower Body",
+    "description": "Hold a seated position against a wall to build endurance."
+  },
+  {
+    "id": 4,
+    "name": "Push-ups",
+    "gifUrl": "/images/push-ups.gif",
+    "target": "Chest, arms",
+    "bodyPart": "Upper Body",
+    "description": "Classic upper-body strength exercise."
+  },
+  {
+    "id": 5,
+    "name": "High Knees",
+    "gifUrl": "/images/high-knees.gif",
+    "target": "Cardio",
+    "bodyPart": "Legs",
+    "description": "Raise your knees quickly in place for a cardio burn."
+  },
+  {
+    "id": 6,
+    "name": "Plank",
+    "gifUrl": "/images/plank.png",
+    "target": "Core",
+    "bodyPart": "Abdominals",
+    "description": "A core strength exercise that also helps with posture."
+  },
+  {
+    "id": 7,
+    "name": "Lunges",
+    "gifUrl": "/images/lunges.gif",
+    "target": "Legs, glutes",
+    "bodyPart": "Lower Body",
+    "description": "Step forward and bend your knees to work your legs."
+  },
+  {
+    "id": 8,
+    "name": "Arm Circles",
+    "gifUrl": "/images/arm-circles.gif",
+    "target": "Shoulders",
+    "bodyPart": "Upper Body",
+    "description": "Warm-up move to loosen shoulder joints."
+  },
+  {
+    "id": 9,
+    "name": "Glute Bridge",
+    "gifUrl": "/images/glute-bridge.jpg",
+    "target": "Glutes, hamstrings",
+    "bodyPart": "Lower Body",
+    "description": "Lift your hips off the ground to engage your glutes."
+  },
+  {
+    "id": 10,
+    "name": "Mountain Climbers",
+    "gifUrl": "/images/mountain-climbers.gif",
+    "target": "Full body",
+    "bodyPart": "Cardio & Core",
+    "description": "Fast-paced move to get your heart rate up."
+  }
+]
